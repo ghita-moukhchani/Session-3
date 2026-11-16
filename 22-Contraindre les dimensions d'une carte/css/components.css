@@ -1,0 +1,12 @@
+
+/* Carte article */
+.carte-article {
+    width: 300px;
+    background-color: #f9fafb;
+    border: 2px solid #e5e7eb;
+}
+
+/* Contenu de la carte */
+.carte-contenu {
+    padding: 20px;
+}

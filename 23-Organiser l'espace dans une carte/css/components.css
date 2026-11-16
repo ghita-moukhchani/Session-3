@@ -1,0 +1,20 @@
+
+.carte-article {
+    background-color: #f9fafb;
+    border: 2px solid #e5e7eb;
+    max-width:300px;
+    margin-bottom: 24px;
+}
+
+
+.carte-contenu {
+    padding:12px;
+}
+
+.carte-contenu h3 {
+    margin: 0;
+}
+
+.carte-contenu p {
+    margin:20px 0;
+}
